@@ -56,3 +56,5 @@ linux/flutter/generated_plugin_registrant.dart
 
 # Others
 *.log
+!a.log
+yorcode/
